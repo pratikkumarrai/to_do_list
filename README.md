@@ -105,6 +105,21 @@ The system consists of the following components:
 
 This Tkinter-based To-Do List app serves as a practical and beginner-friendly project for understanding GUI development in Python. While simple, it effectively demonstrates interactive UI features and basic event handling, and can be extended for more complex task management needs.
 
+# 12.Output
+
+<img width="556" height="646" alt="image" src="https://github.com/user-attachments/assets/2cd10bac-bf61-46e5-b1df-77b677a0c186" />
+
+![WhatsApp Image 2025-07-17 at 20 02 07_67f01e59](https://github.com/user-attachments/assets/59dacbd3-683e-40a6-82a9-65fe33b2c7c2)
+
+![WhatsApp Image 2025-07-17 at 20 02 46_2b203adc](https://github.com/user-attachments/assets/2dea59ff-7dcf-4e60-9a96-5891d2589269)
+
+![WhatsApp Image 2025-07-17 at 20 03 36_9a29f8d5](https://github.com/user-attachments/assets/444b46a6-71df-4139-9cad-32710809a89b)
+
+![WhatsApp Image 2025-07-17 at 20 04 28_62ca5619](https://github.com/user-attachments/assets/417776a2-be79-4ba2-8f53-d0abf17b24f6)
+
+
+
+
 
 
 
